@@ -35,3 +35,18 @@ Durante la práctica se presentaron algunas dificultades al instalar y configura
 
 ## 8. Conclusiones
 Como equipo, concluimos que esta práctica nos permitió conocer e instalar diferentes herramientas necesarias para la automatización de redes. Aprendimos a configurar un entorno de desarrollo, organizar proyectos y utilizar GitHub para guardar y compartir nuestros archivos.
+
+
+Práctica 4
+Exploración de comunidades, documentación y recursos de colaboración.
+
+Estado: Completada.
+
+Se identificaron y analizaron recursos de documentación y comunidades relacionados con Python, GNS3 y la automatización de redes.
+
+Se evaluó la confiabilidad de herramientas clave como la documentación oficial, repositorios y foros técnicos.
+
+Se organizó una base de conocimiento técnica y una estrategia de resolución de problemas para apoyar las siguientes etapas del proyecto integrador.
+
+Próximo paso:
+Continuar el desarrollo de programas en Python y utilizar los recursos técnicos investigados para resolver incidencias durante su implementación.
