@@ -10,3 +10,7 @@ Consultaría la Documentación Oficial de GNS3 (junto con su sitio de soporte y 
 
 3. ¿Por qué no conviene copiar directamente una solución sin comprobar que funciona en el entorno de trabajo?
 Porque cada entorno de trabajo tiene particularidades únicas (como versiones específicas de software, dependencias instaladas, sistemas operativos distintos, topologías de red diferentes o restricciones de permisos). Copiar código o configuraciones a ciegas suele provocar fallos de compatibilidad, errores de ejecución (bugs) o comportamientos inesperados que son muy difíciles de depurar si no se comprende exactamente qué hace la solución y cómo interactúa con el resto del proyecto.
+
+TABLA 2
+
+[Tabla 2.pdf](https://github.com/user-attachments/files/33849987/Tabla.2.pdf)
